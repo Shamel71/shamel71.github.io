@@ -1,8 +1,8 @@
 .rainbow-text{
   font-family: monospace;
 	position: relative;
-  top: -900px;
-  font-size: 180px;
+  top: -100px;
+  font-size: 50px;
 	color: #000;
 	background: #fff;
 	mix-blend-mode: multiply;

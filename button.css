@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+button {
+    background-color: violet;
+    font-family: monospace;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 90px 120px;
+    font-size: 80px;
+    font-weight: bold;
+    border-radius: 6px;
+    box-shadow: inset 0 0 0 0 #ffffff;
+    transition: ease-out 0.3s;
+}

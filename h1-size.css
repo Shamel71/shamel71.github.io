@@ -1,0 +1,16 @@
+h1 {
+  font-size: 100px;
+  font-family: monospace;
+}
+h2 {
+  font-size: 100px;
+  font-family: monospaces;
+}
+h3 {
+  font-size: 140px;
+  font-family: monospace;
+}
+p {
+  font-size: 80px;
+  font-family: monospace;
+}
